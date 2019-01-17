@@ -61,7 +61,7 @@ const Mitzi = {
 // Mitzi's name
 console.log(Mitzi.name);
 // Kennan's ID
-console.log(Kenna.id);
+console.log(Kennan.id);
 // Keven's email
 console.log(Keven.email);
 // Gannie's name
